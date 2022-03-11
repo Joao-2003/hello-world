@@ -1,5 +1,13 @@
 # hello-world
-first-repository
-getting_started = now
-experience = none
-excited? = HELLyeah!
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>
+            hello, world
+        </title>
+    </head>
+    <body>
+        hello, world
+    </body>
+</html>
